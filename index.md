@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+# B.E. Albert
 ---
+## Summary
+---
+## Skills
+---
+## Projects
 
